@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppCinema</string>
+    <string name="select_photo">Chọn Ảnh</string>
+    <string name="movie">Tên Phim</string>
+    <string name="genre">Thể loại</string>
+    <string name="opening_day">Ngày phát hành</string>
+    <string name="description">Mô tả</string>
+    <string name="create_movie">Tạo Phim</string>
 </resources>
