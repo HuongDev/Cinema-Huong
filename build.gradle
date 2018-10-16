@@ -35,6 +35,8 @@ ext {
             retrofit2                           : "2.3.0",
             gson                                : "2.8.2",
             dagger2                             : "2.15",
+            room                                : "1.1.1",
+            lifecycle                           : "1.1.1",
             butterknife                         : "8.8.1",
             glide                               : "3.7.0",
     ]
